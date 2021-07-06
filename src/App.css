@@ -1,0 +1,146 @@
+.has-bg-img {
+  background: url(./components/images/overwatchgirlbckgrnd.png) center;
+  background-size: cover;
+}
+
+.email-feature-background {
+  background: url(./components/images/pastelgridbackground.png) center;
+  background-size: cover;
+}
+
+.history-feature-background {
+  background: url(./components/images/pastelbackgroundnogrid.png) center;
+  background-size: cover;
+}
+
+.header-title{
+  font-family: source-code-pro,monospace;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+  font-size: 60px;
+  text-align: left;
+}
+
+.header-subtitle{
+  font-family: source-code-pro,monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  font-size: 40px;
+  text-align: left;
+}
+
+.header-title2{
+  font-family: source-code-pro,monospace;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+
+.header-subtitle2{
+  font-family: source-code-pro,monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  font-size: 28px;
+  text-align: center;
+}
+
+.footer-subtitle{
+  font-family: source-code-pro,monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  font-size: 10px;
+  text-align: left;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 25rem;
+  height: 35rem;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid;
+  margin: 1rem 0;
+  box-shadow: .5rem .5rem 3rem rgba(0,0,0,0.2);
+}
+
+@media screen and (min-width: 700px){
+  .card-wrapper{
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+  }
+  .card {
+    margin: 1rem;
+}
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.featuredimages {
+  max-width: 100%;
+  height: auto;
+  margin: 30px auto 30px auto;
+}
+.form {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  margin: 30px auto 30px auto;
+  border-radius: 2px;
+  padding: 10px;
+}
+.card-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 40%;
+  transition: .5s ease;
+  background: rgba(0, 0, 0, 0.5);
+}
+.email-text{
+  text-align: center;
+}
+
+.btn-text {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: source-code-pro,monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+.btn-text2 {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  font-family: source-code-pro,monospace;
+  font-weight: 400;
+  font-style: normal;
+}
