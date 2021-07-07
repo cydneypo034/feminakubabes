@@ -122,6 +122,11 @@
   text-align: center;
 }
 
+.img-fluid2 {
+  height: 900px;
+  width: 500px;
+}
+
 .btn-text {
   color: black;
   font-size: 20px;
