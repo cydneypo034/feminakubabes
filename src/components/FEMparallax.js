@@ -16,7 +16,7 @@ function FemParallax() {
             <div className="card-wrapper">
 
             <div className="card">
-                <div className="card-overlay ">
+                <div className="">
                     <img src={PastelTown} alt="girl by vending machine" className="image"/>
                     </div>
                     <div className="btn-text">
@@ -26,7 +26,7 @@ function FemParallax() {
                 </div>
 
                 <div className="card">
-                    <div className="card-overlay ">
+                    <div className="">
                         <img src={PurpleTown} alt="girl in space" className="image"/>
                     </div>
                     <div className="btn-text">
@@ -38,7 +38,7 @@ function FemParallax() {
 
 
                 <div className="card">
-                    <div className="card-overlay">
+                    <div className="">
                         <img src={GreenTown} alt="girl next to arcade" className="image"/>
                     </div>
                     <div className="btn-text">
