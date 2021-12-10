@@ -44,7 +44,7 @@ function FemParallax() {
                 </div>
 
            
-            <div style={{ height: '100px' }} />
+            <div style={{ height: '30px' }} />
         </Parallax>
         </div>
     )
