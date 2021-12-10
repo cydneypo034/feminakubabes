@@ -16,7 +16,9 @@ function FemParallax() {
             <div className="card-wrapper">
 
             <div className="card">
-                    <img src={PastelTown} alt="girl by vending machine" className="image"/>
+                <div className="overlay">
+                    <img src={PastelTown} alt="girl-by-vending-machine" className="image"/>
+                    </div>
                     <div className="btn-text">
                     <div className="header-subtitle2">join our community of 2,000 members &#9734;</div>
                     <button type="button" className="btn btn-secondary btn-rounded" href="/">join the community &#9734;</button>
