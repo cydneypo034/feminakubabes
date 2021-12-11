@@ -9,10 +9,11 @@ function Reviews() {
             <div className="card">
                 <div className="container">
                     <h1 className="header-title2">
-                    &#9734;WonderBae&#9734;
+                   wonder-bae
                     </h1>
                 </div>
                 <div className="btn-text">
+                <br/>
                     <span class="icon-text">
                     <span class="icon">
                         <i class="fas fa-check-square"></i>
@@ -41,10 +42,11 @@ function Reviews() {
                 <div className="card">
                 <div className="container">
                     <h1 className="header-title2">
-                    &#9734;PrimeBae&#9734;
+                    prime-bae
                     </h1>
                 </div>
                 <div className="btn-text">
+                <br/>
                     <span class="icon-text">
                     <span class="icon">
                         <i class="fas fa-check-square"></i>
@@ -75,10 +77,12 @@ function Reviews() {
                     
                 <div className="container">
                     <h1 className="header-title2">
-                    &#9734;LuxeBae&#9734;
+                    luxe-bae     
                     </h1>
                 </div>
+                
                 <div className="btn-text">
+                    <br/>
                 <span class="icon-text">
                     <span class="icon">
                         <i class="fas fa-check-square"></i>
