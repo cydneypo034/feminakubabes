@@ -50,15 +50,15 @@ function HomeHeader() {
             <div className="card-wrapper">
                 <div className="image-card-one">                    
                     <img src={BlackPotterGirls} alt="black-girl-with-potter-robes" className='who-component-image' />
-                        <div className='card-overlay'>
-                            <div className='text-overlay'>Creatives</div>
-                        </div>
+                        <div className='card-overlay'>Hello</div>
                 </div>
                 <div className="image-card-two">
                     <img src={BlackGirlWithGlasses} alt="black-girl-with-afro" className='who-component-image' />
+                    <div className='card-overlay'>Hello</div>
                 </div>
                 <div className="image-card-three"> 
                     <img src={FreeBlackGirl} alt="black-girl-with-afro" className='who-component-image' />
+                    <div className='card-overlay'>Hello</div>
                 </div>
             </div>
             </div>
