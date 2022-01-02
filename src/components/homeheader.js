@@ -1,4 +1,6 @@
 import React from 'react';
+import BlackGirlAfro from './images/blackgirlwithafro.jpg';
+import FreeBlackGirl from './images/blackgirlrichness.jpg'
 
 function HomeHeader() {
     return (
@@ -46,15 +48,15 @@ function HomeHeader() {
             <div className="header-title-second">Who's using Feminaku?</div>
             <div className="card-wrapper">
                 <div className="image-card-one">
-                    
+                    <img src={BlackGirlAfro} alt="black-girl-with-afro" className='who-component-image' />
                 </div>
 
                 <div className="image-card-two">
-                    
+                    <img src={FreeBlackGirl} alt="black-girl-with-afro" className='who-component-image' />
                 </div>
 
                 <div className="image-card-three"> 
-                    
+                    <img src={BlackGirlAfro} alt="black-girl-with-afro" className='who-component-image' />
                 </div>
             </div>
             </div>
