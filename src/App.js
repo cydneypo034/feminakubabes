@@ -1,9 +1,12 @@
 import React, {Component} from 'react';
 import './App.css';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {BrowserRouter as Router, Route} from 'react-router-dom';
 import NavBar from './components/navbar.js';
 import Home from './components/homeheader.js';
-import Footer from './components/footer.js';
+import Memberships from './components/membership.js';
+import AboutUs from './components/about-us.js';
+import ContactUs from './components/contact-us.js';
+import Footer from './components/contact-us.js';
 
 
 
@@ -11,17 +14,17 @@ export default class App extends Component {
   render(){
     return (
       <div>
-        <NavBar />
         <Router>
+          <NavBar />
 
-          <Switch>
-            <Route exact path="/" component={Home}></Route>
+            <Route exact path="/" component={Home} />
+            <Route path="/memberships" component={Memberships}/>
+            <Route path="/about-us" component={AboutUs}/>
+            <Route path="/contact-us" component={ContactUs} />
+            <Route />
           
-          </Switch>
-
-      <Footer />
-
-    </Router>
+          <Footer />
+        </Router>
     </div>
     )
   }

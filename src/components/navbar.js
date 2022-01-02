@@ -17,27 +17,19 @@ function NavbarPage() {
         <div id="navbarBasicExample" class="navbar-menu">
           <div className="navbar-start">
             <a href="/" className="navbar-item">
-              Home
+              HOME
             </a>
 
-            <a href="/" className="navbar-item">
-              About Us
+            <a href="/memberships" className="navbar-item">
+              MEMBERSHIPS
             </a>
 
-            <a href="/" className="navbar-item">
-              Community
+            <a href="/about-us" className="navbar-item">
+              ABOUT US
             </a>
 
-            <a href="/" className="navbar-item">
-              Blog
-            </a>
-
-            <a href="/" className="navbar-item">
-              Merch
-            </a>
-
-            <a href="/" className="navbar-item">
-              Contact
+            <a href="/contact-us" className="navbar-item">
+              CONTACT
             </a>
 
             
@@ -47,10 +39,10 @@ function NavbarPage() {
             <div className="navbar-item">
               <div className="buttons">
                 <a href="/" className="button is-white">
-                  <strong>Sign up</strong>
+                  <strong>SIGN UP</strong>
                 </a>
                 <a href="/" className="button is-light">
-                  Log in
+                  LOG IN
                 </a>
               </div>
             </div>

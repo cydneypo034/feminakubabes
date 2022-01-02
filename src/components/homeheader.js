@@ -1,9 +1,5 @@
 import React, { Fragment } from 'react';
-import ThreeOffers from './featurespage';
-import FemParallax from './FEMparallax.js';
-import EmailUs from './EmailUs.js';
-import Reviews from './reviews.js';
-import History from './history.js';
+
 
 function HomeHeader() {
     return (
@@ -42,11 +38,7 @@ function HomeHeader() {
                 </div>
             </div>
             </section>
-            <FemParallax />
-            <History />
-            <Reviews />
-            <ThreeOffers />
-            <EmailUs />
+           
         </div>
     )
 }
