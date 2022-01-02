@@ -5,23 +5,25 @@ function HomeHeader() {
     return (
         <div>
             
-            <section className="hero is-large has-bg-img">
+            <section className="hero is-medium">
             <div className="hero-body">
                 <div className="container">
-                <h1 className="header-title">
-                    welcome to feminaku &#9734; <br />
-                </h1>
-                <h2 className="header-subtitle">
-                    the magical hub for black otaku girls 
-                </h2>
-                <Fragment>
-                <div className="button-size">
-                <button type="button" className="btn btn-secondary btn-rounded" href="/user">Newsletter Sign Up</button>
 
-              </div>
-              </Fragment>
+                <h1 className="header-title">
+                    A safe, magical space <br /> by us, for us 
+                </h1>
+
+                <h2 className="header-subtitle">
+                    Enjoy streams, merch, and community <br /> made for the inner otaku in you. 
+                </h2>
+
+                <div className="button-size">
+                <button type="button" className="btn btn-secondary btn-rounded" href="/user">
+                    Get Started</button>
                 </div>
+
                 </div>
+            </div>
             </section>
 
             <section className="hero is-medium ">
