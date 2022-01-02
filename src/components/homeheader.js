@@ -20,7 +20,7 @@ function HomeHeader() {
                 </h2>
 
                 <div className="button-size">
-                <button type="button" className="btn btn-secondary btn-rounded" href="/user">
+                <button type="button" className="btn btn-secondary btn-rounded" href="/memberships">
                     Get Started</button>
                 </div>
 
@@ -29,7 +29,7 @@ function HomeHeader() {
             </div>
             </section>
 
-            <section className="hero is-medium ">
+            <section className="hero is-medium">
             <div className="hero-body">
                 <div className='container'>
                     <h1 className='header-title-second'>
@@ -60,8 +60,44 @@ function HomeHeader() {
             </div>
             </div>
 
-            <section>
-                
+            <section className='hero is-medium'>
+                <div className='hero-body'>
+                    <div className='container'>
+                        <h1 className='header-title-second'>
+                            Sis, you don't have to feel alone again.
+                        </h1>
+                        <h2 className="header-subtitle-second">
+                            Enjoy your membership of merch from your favorite anime and hangout sessions in our thriving community. 
+                            Pick which is the best for you.
+                        </h2>
+                        <div className='membership-photo'>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section className='hero is-medium'>
+                <div className='hero-body'>
+                    <div className='container'>
+                    <h1 className='header-title-second'>
+                            See how our other community members use Feminaku.
+                    </h1>
+                    </div>
+                </div>
+            </section>
+
+            <section className='hero is-medium'>
+                <div className='hero-body'>
+                    <div className='container'>
+                        <h1 className='header-title-second'>
+                            Ready to join the tribe?
+                        </h1>
+
+                        <button type="button" className="btn btn-secondary btn-rounded footerbutton" href="/memberships">
+                        Get Started</button>
+                    </div>
+                </div>
             </section>
     </div>
     )
