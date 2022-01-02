@@ -1,11 +1,12 @@
-import React, { Fragment } from 'react';
+import React from 'react';
+import SailorMoonGif from './images/sailor-moon-happy.gif';
 
 
 function HomeHeader() {
     return (
         <div>
             
-            <section className="hero is-medium">
+            <section className="hero is-medium is-light">
             <div className="hero-body">
                 <div className="container">
 
@@ -21,6 +22,8 @@ function HomeHeader() {
                 <button type="button" className="btn btn-secondary btn-rounded" href="/user">
                     Get Started</button>
                 </div>
+
+                <img src={SailorMoonGif} alt="girl-playing-video-games-in-arcade" className="videoGameGirlBckgrnd" />
 
                 </div>
             </div>
