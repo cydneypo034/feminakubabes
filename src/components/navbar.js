@@ -26,14 +26,14 @@ function NavbarPage() {
               </a>
 
               <div className="navbar-dropdown">
-                <a href="/Lite" className="navbar-item">
-                  Lite
+                <a href="/Prime" className="navbar-item">
+                  Prime
                 </a>
-                <a href="/Pro" className='navbar-item'>
-                  Pro
+                <a href="/Wonder" className='navbar-item'>
+                  Wonder
                 </a>
-                <a href='/Premiere' className='navbar-item'>
-                  Premiere
+                <a href='/Luxe' className='navbar-item'>
+                  Luxe
                 </a>
               </div>
             </div>
@@ -49,6 +49,15 @@ function NavbarPage() {
 
           <div className="navbar-end">
             <div className="navbar-item">
+              <div className="control">            
+              <div class="control has-icons-left">
+                <input className="input" type="text" placeholder="Find a Member" />
+                <span class="icon is-small is-left">
+                <i class="fas fa-user"></i>
+                </span>
+              </div>
+
+              </div>
                 
                 <a href="/" className="navbar-item">
                   Log In
