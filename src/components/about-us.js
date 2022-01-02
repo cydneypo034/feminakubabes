@@ -1,5 +1,4 @@
 import React from 'react';
-import GamerGirl from './images/videogame.jpeg';
 
 function History() {
     return (
@@ -9,7 +8,6 @@ function History() {
                     <div class="col-md-5 offset-md-1 mx-3 my-3">
                     
                     <div class="view overlay">
-                        <img src={GamerGirl} class="img-fluid2" alt="girl-in-arcade" />
                         <div class="mask rgba-white-slight">
                         </div>
                     </div>
