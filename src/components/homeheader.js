@@ -7,7 +7,7 @@ function HomeHeader() {
     return (
         <div>
             
-            <section className="hero is-medium is-white">
+            <section className="hero is-medium is-black">
             <div className="hero-body">
                 <div className="container">
 

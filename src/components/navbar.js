@@ -17,36 +17,50 @@ function NavbarPage() {
         <div id="navbarBasicExample" class="navbar-menu">
           <div className="navbar-start">
             <a href="/" className="navbar-item">
-              HOME
+              Home
             </a>
 
-            <a href="/memberships" className="navbar-item">
-              MEMBERSHIPS
-            </a>
+            <div className="navbar-item has-dropdown is-hoverable">
+              <a href="/" className="navbar-link">
+                 Memberships
+              </a>
+
+              <div className="navbar-dropdown">
+                <a href="/Lite" className="navbar-item">
+                  Lite
+                </a>
+                <a href="/Pro" className='navbar-item'>
+                  Pro
+                </a>
+                <a href='/Premiere' className='navbar-item'>
+                  Premiere
+                </a>
+              </div>
+            </div>
 
             <a href="/about-us" className="navbar-item">
-              ABOUT US
+              About Us
             </a>
 
             <a href="/contact-us" className="navbar-item">
-              CONTACT
+              Contact
             </a>
-
-            
           </div>
 
           <div className="navbar-end">
             <div className="navbar-item">
-              <div className="buttons">
-                <a href="/" className="button is-white">
-                  <strong>SIGN UP</strong>
+                
+                <a href="/" className="navbar-item">
+                  Log In
                 </a>
-                <a href="/" className="button is-light">
-                  LOG IN
-                </a>
-              </div>
+                <button type="button" className="btn btn-secondary btn-rounded" href="/memberships">
+                    Join on Feminaku
+                </button>
+                
             </div>
           </div>
+
+
         </div>
       </nav>
             </div>
