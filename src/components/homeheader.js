@@ -48,8 +48,11 @@ function HomeHeader() {
             <div className="who-component-body">
             <div className="header-title-second">Who's using Feminaku?</div>
             <div className="card-wrapper">
-                <div className="image-card-one">
+                <div className="image-card-one">                    
                     <img src={BlackPotterGirls} alt="black-girl-with-potter-robes" className='who-component-image' />
+                        <div className='card-overlay'>
+                            <div className='text-overlay'>Creatives</div>
+                        </div>
                 </div>
                 <div className="image-card-two">
                     <img src={BlackGirlWithGlasses} alt="black-girl-with-afro" className='who-component-image' />
