@@ -1,7 +1,8 @@
 import React from 'react';
-import BlackPotterGirls from './images/blackpottergirls.jpg';
-import BlackGirlWithGlasses from './images/blackgirlglasses.jpg';
-import FreeBlackGirl from './images/freeblackgirl.jpg';
+import BlackPotterGirls from '../images/blackpottergirls.jpg';
+import BlackGirlWithGlasses from '../images/blackgirlglasses.jpg';
+import FreeBlackGirl from '../images/freeblackgirl.jpg';
+import './homeheader.css';
 
 function HomeHeader() {
     return (
