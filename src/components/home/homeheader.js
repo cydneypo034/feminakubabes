@@ -2,6 +2,7 @@ import React from 'react';
 import BlackPotterGirls from '../images/blackpottergirls.jpg';
 import BlackGirlWithGlasses from '../images/blackgirlglasses.jpg';
 import FreeBlackGirl from '../images/freeblackgirl.jpg';
+import FeminakuPricing from '../images/feminakuprice.png';
 import './homeheader.css';
 
 function HomeHeader() {
@@ -75,7 +76,7 @@ function HomeHeader() {
                             Pick which is the best for you.
                         </h2>
                         <div className='membership-photo'>
-
+                            <img src={FeminakuPricing} alt='cards-with-pricing-for-feminaku' className='' />
                         </div>
                     </div>
                 </div>

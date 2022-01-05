@@ -3,8 +3,12 @@ import './pricing.css';
 
 function Memberships() {
     return (
+        <div>
 
-        <div className="container">
+        <section class="hero is-small">
+        <div class="hero-body">        
+        <div className="container">        
+
             <h1 className="header-title-second">choose how you'd like to thrive</h1>
             <h2 className="header-subtitle-second">
                 It's free to get started. You'll receive membership perks immediately upon signing up
@@ -149,6 +153,26 @@ function Memberships() {
                     </div>
                 </div>
             </div>
+        </div>
+        </div>
+        </section>
+            
+        
+        <section class="hero is-medium">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="header-title-second">
+                        What can come in your plan?
+                    </h1>
+                    <h2 className="header-subtitle-second">
+                    No matter which plan you choose, there's always going to something for everyone.
+                    All plans include:
+                    </h2>
+                </div>
+            </div>
+        </section>
+
+            
 
         </div>
 
