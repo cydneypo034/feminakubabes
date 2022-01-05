@@ -21,7 +21,7 @@ function NavbarPage() {
             </a>
 
             <div className="navbar-item has-dropdown is-hoverable">
-              <a href="/memberships" className="navbar-link">
+              <a href="#" className="navbar-link">
                  Memberships
               </a>
 
@@ -40,6 +40,10 @@ function NavbarPage() {
 
             <a href="/about-us" className="navbar-item">
               About Us
+            </a>
+
+            <a href="/pricing" className="navbar-item">
+              Pricing
             </a>
 
             <a href="/contact-us" className="navbar-item">

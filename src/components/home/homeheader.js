@@ -21,7 +21,7 @@ function HomeHeader() {
                 </h2>
 
                 <div className="button-size">
-                <button type="button" className="btn btn-secondary btn-rounded" href="/memberships">
+                <button type="button" className="btn btn-secondary btn-rounded" href="/pricing">
                     Get Started</button>
                 </div>
 
@@ -98,7 +98,7 @@ function HomeHeader() {
                             Ready to join the tribe?
                         </h1>
 
-                        <button type="button" className="btn btn-secondary btn-rounded footerbutton" href="/memberships">
+                        <button type="button" className="btn btn-secondary btn-rounded footerbutton" href="/pricing">
                         Get Started</button>
                     </div>
                 </div>
