@@ -47,23 +47,68 @@ function HomeHeader() {
             </div>
             </section>
 
-            <div className="who-component-body">
-            <div className="header-title-second">Who's using Feminaku?</div>
-            <div className="card-wrapper">
-                <div className="image-card-one">                    
-                    <img src={BlackPotterGirls} alt="black-girl-with-potter-robes" className='who-component-image' />
-                        <div className='card-overlay'>Hello</div>
+            <section>
+                <h1 className='header-title-second'>Who's using Feminaku?</h1>
+                <div className='columns'>
+                    
+                    <div className='column'>
+                        <div className='card'>
+                            <img src={BlackPotterGirls} alt='black-girls-dressed-in-harry-potter-robes' className='who-component-image'/>
+
+                            <div className='overlay'>
+                                <div className='card-content'>
+                                    <div className='media-content'>
+                                        <p className='header-title-second-white'>All Houses in the Wizarding World and are K-pop stans</p>
+                                    </div>
+                                    <div className='content'>
+                                        <p className='header-subtitle-second-white'>
+                                            No matter if you're in a Hogwards House or in the BTS army, you're more than welcome. 
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='column'>
+                        <div className='card'>
+                            <img src={BlackGirlWithGlasses} alt='black-girl-dressed-in-glasses' className='who-component-image'/>
+
+                            <div className='overlay'>
+                                <div className='card-content'>
+                                <div className='media-content'>
+                                        <p className='header-title-second-white'>Manga Lovers and </p>
+                                    </div>
+                                    <div className='content'>
+                                        <p className='header-subtitle-second-white'></p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className='column'>
+                        <div className='card'>
+                            <img src={FreeBlackGirl} alt='black-girl-sitting-on-stairs' className='who-component-image'/>
+
+                            <div className='overlay'>
+                                <div className='card-content'>
+                                <div className='media-content'>
+                                        <p className='header-title-second-white'></p>
+                                    </div>
+                                    <div className='content'>
+                                        <p className='header-subtitle-second-white'></p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
-                <div className="image-card-two">
-                    <img src={BlackGirlWithGlasses} alt="black-girl-with-afro" className='who-component-image' />
-                    <div className='card-overlay'>Hello</div>
-                </div>
-                <div className="image-card-three"> 
-                    <img src={FreeBlackGirl} alt="black-girl-with-afro" className='who-component-image' />
-                    <div className='card-overlay'>Hello</div>
-                </div>
-            </div>
-            </div>
+            </section>
 
             <section className='hero is-medium'>
                 <div className='hero-body'>
