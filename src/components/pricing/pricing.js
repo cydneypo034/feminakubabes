@@ -166,12 +166,70 @@ function Memberships() {
                     </h1>
                     <h2 className="header-subtitle-second">
                     No matter which plan you choose, there's always going to something for everyone.
-                    All plans include:
+                    All plans include the ability to:
                     </h2>
+                    
+                    <div class="card-wrapper">
+                       <div class="second-card">
+                        <div class="card-content">
+                            <div class="container">
+                                <h1 class="card-title-first">
+                                    Upgrade or Downgrade Your Plan
+                                </h1>
+                                <p className='card-subtitle-second'>
+                                    Your plans will come with the power to choose. You can upgrade or downgrade your plan at any time.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="second-card">
+                        <div class="card-content">
+                            <div class="container">
+                                <h1 class="card-title-first">
+                                    Interact with Worldwide Community
+                                </h1>
+                                <p className='card-subtitle-second'>
+                                    Join over 10,000+ FemmeBabes both online and in-person with our community events.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="second-card">
+                        <div class="card-content">
+                            <div class="container">
+                                <h1 class="card-title-first">
+                                    Pause or Skip Months in Your Plan
+                                </h1>
+                                <p className='card-subtitle-second'>
+                                    You can pause and restart your plan at any time. We won't charge you extra fees in the process.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="second-card">
+                        <div class="card-content">
+                            <div class="container">
+                            <h1 class="card-title-first">
+                                    Shop Small and Black-Owned
+                                </h1>
+                            <p className='card-subtitle-second'>
+                                    No matter what plan you invest in, you'll be supporting small and black-owned businesses.
+                                </p>
+                            </div>
+                        </div>
+                    </div>  
+                    </div>      
                 </div>
             </div>
         </section>
 
+        <section class="hero is-medium">
+
+
+        </section>
             
 
         </div>
