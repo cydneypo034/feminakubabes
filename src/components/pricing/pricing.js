@@ -1,4 +1,5 @@
 import React from 'react';
+import PaymentsOptions from '../images/payments.png';
 import './pricing.css';
 
 function Memberships() {
@@ -227,8 +228,17 @@ function Memberships() {
         </section>
 
         <section class="hero is-medium">
-
-
+            <div className="container">
+            <hr/>
+            <h1 className='header-title-second'>About payment processing plans</h1>
+            <h2 className="header-subtitle-second">Payment processing fees cover the cost of all the things we 
+            do behind the scenes to ensure you have the best experience in the Feminaku platform.</h2>
+            <div className="">
+                <img src={PaymentsOptions} alt='list-of-payment-options' 
+                className='payments-cards-image'/>
+            </div>
+             <hr/>
+            </div>   
         </section>
             
 
