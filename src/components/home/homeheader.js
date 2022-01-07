@@ -130,16 +130,6 @@ function HomeHeader() {
             <section className='hero is-medium'>
                 <div className='hero-body'>
                     <div className='container'>
-                    <h1 className='header-title-second'>
-                            See how our other community members use Feminaku.
-                    </h1>
-                    </div>
-                </div>
-            </section>
-
-            <section className='hero is-medium'>
-                <div className='hero-body'>
-                    <div className='container'>
                         <h1 className='header-title-second'>
                             Ready to join the tribe?
                         </h1>
@@ -149,6 +139,8 @@ function HomeHeader() {
                     </div>
                 </div>
             </section>
+
+            
     </div>
     )
 }
