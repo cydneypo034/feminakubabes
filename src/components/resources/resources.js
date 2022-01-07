@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ContactUs() {
+function Resources() {
     return (
         <div>
             <h1>hello</h1>
@@ -8,4 +8,4 @@ function ContactUs() {
     )
 }
 
-export default ContactUs;
+export default Resources;

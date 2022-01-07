@@ -58,12 +58,11 @@ function HomeHeader() {
                             <div className='overlay'>
                                 <div className='card-content'>
                                     <div className='media-content'>
-                                        <p className='header-title-second-white'>All Houses in the Wizarding World and are K-pop stans</p>
+                                        <p className='header-title-second-white'>Fandom Lovers and K-pop stans</p>
                                     </div>
                                     <div className='content'>
                                         <p className='header-subtitle-second-white'>
                                             No matter if you're in a Hogwards House or in the BTS army, you're more than welcome. 
-
                                         </p>
                                     </div>
                                 </div>
@@ -78,11 +77,12 @@ function HomeHeader() {
                             <div className='overlay'>
                                 <div className='card-content'>
                                 <div className='media-content'>
-                                        <p className='header-title-second-white'>Manga Lovers and </p>
+                                        <p className='header-title-second-white'>Waifus and Gamers</p>
                                     </div>
                                     <div className='content'>
-                                        <p className='header-subtitle-second-white'></p>
-                                        
+                                        <p className='header-subtitle-second-white'>
+                                            The safe place for all your waifus to thrive and for chats about your favorite games.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -96,11 +96,12 @@ function HomeHeader() {
                             <div className='overlay'>
                                 <div className='card-content'>
                                 <div className='media-content'>
-                                        <p className='header-title-second-white'></p>
+                                        <p className='header-title-second-white'>Anime Advocates and Cosplay Queens</p>
                                     </div>
                                     <div className='content'>
-                                        <p className='header-subtitle-second-white'></p>
-                                        
+                                        <p className='header-subtitle-second-white'>
+                                            The place where cosplaying has no rules and anime can be loved by all.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
