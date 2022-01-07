@@ -233,14 +233,124 @@ function Memberships() {
             <h1 className='header-title-second'>About payment processing plans</h1>
             <h2 className="header-subtitle-second">Payment processing fees cover the cost of all the things we 
             do behind the scenes to ensure you have the best experience in the Feminaku platform.</h2>
-            <div className="">
+            <div className="payment-options">
                 <img src={PaymentsOptions} alt='list-of-payment-options' 
                 className='payments-cards-image'/>
             </div>
+
+            <div className="card-wrapper">
+                <div class="second-card">
+                        <div class="card-content">
+                            <div class="container">
+                                <h1 class="card-title-first">
+                                    Multiple Payment Methods.
+                                </h1>
+                                <p className='card-subtitle-second'>
+                                    We accept Visa, Mastercard, American Express, Discover, and Paypal for payment methods.
+                                </p>
+                            </div>
+                        </div>
+                </div>
+
+                <div class="second-card">
+                        <div class="card-content">
+                            <div class="container">
+                                <h1 class="card-title-first">
+                                Recurring Billing Monthly.
+                                </h1>
+                                <p className='card-subtitle-second'>
+                                We charge your debit or credit card on file every month and you have the chance to up or downgrade.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="second-card">
+                        <div class="card-content">
+                            <div class="container">
+                                <h1 class="card-title-first">
+                                    International Surcharge Fee.
+                                </h1>
+                                <p className='card-subtitle-second'>
+                                    For all payments of FemmeBabes outside of the US using Paypal, there is an additional 1% surcharge.
+                                </p>
+                            </div>
+                        </div>
+                    </div>     
+            </div>
+            <br/>
              <hr/>
             </div>   
         </section>
-            
+
+        <section className='hero is-medium'>
+            <div className='hero-body'>
+                <div className='container'>
+                <h1 className="header-title-faqs">
+                    FAQ's 
+                </h1>
+                <hr/>
+                <h2 className='header-subtitle-faqs'>
+                    Who is Prime for?
+                </h2>
+                <h2 className='subtitle-faqs'>
+                    Prime is for those who simply want to enjoy the perks of a community,
+                    support black-owned businesses in our FemmeBabe Merch box, and 
+                    aren't needing the benifits of the other tiers. Learn More
+                </h2>
+                <hr/>
+                <h2 className='header-subtitle-faqs'>
+                    Who is Wonder for?
+                </h2>
+                <h2 className='subtitle-faqs'>
+                    Wonder is for those who want the perks of Prime with additional benefits of the community and merchandise,
+                    want to enjoy anime on our personal streaming platform,
+                    and aren't needing the benefit of gaming from our gaming studio. Learn More
+                </h2>
+                <hr/>
+                <h2 className='header-subtitle-faqs'>
+                    Who is Luxe for?
+                </h2>
+                <h2 className='subtitle-faqs'>
+                    Luxe is for those who want to enjoy every aspect of the Feminaku experience of community,
+                    merch, an anime streaming service, and first plays from our gaming studio. Learn More
+                </h2>
+                <hr/>
+                <h2 className='header-subtitle-faqs'>
+                    How easily can you upgrade and downgrade plans?
+                </h2>
+                <h2 className='subtitle-faqs'>
+                    Switching between plans and pausing them is extremely easy to do! This would require you
+                    going to the settings of your account and choosing an option in the billing and subscription section
+                    of whether you'd like to upgrade, downgrade, pause or cancel. If you cancel, we do require you make these changes before
+                    loosing your points from months skipped prior.
+                </h2>
+                <hr/>
+                <h2 className='header-subtitle-faqs'>
+                    Can I cancel at anytime?
+                </h2>
+                <h2 className='subtitle-faqs'>
+                    We'd hate to see you go, but you're more than welcome to cancel at anytime. This would require you
+                    going to the settings of your account and choosing the option in the billing and subscription section
+                    to cancel your subscription. We do require you cancel before loosing your points from months prior.
+                </h2>
+                <hr/>
+                </div>
+            </div>
+        </section>
+
+        <section className='hero is-medium' style={{backgroundColor: 'lightgrey'}}>
+                <div className='hero-body'>
+                    <div className='container'>
+                        <h1 className='header-title-second'>
+                            Join the 10,000+ black women thriving in our Otaku community.
+                        </h1>
+
+                        <button type="button" className="btn btn-secondary btn-rounded footerbutton" href="/pricing">
+                        Get Started</button>
+                    </div>
+                </div>
+            </section>   
 
         </div>
 

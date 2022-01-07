@@ -128,7 +128,7 @@ function HomeHeader() {
                 </div>
             </section>
 
-            <section className='hero is-medium'>
+            <section className='hero is-medium' style={{backgroundColor: 'lightgrey'}}>
                 <div className='hero-body'>
                     <div className='container'>
                         <h1 className='header-title-second'>

@@ -38,6 +38,33 @@
     font-weight: 400;
     font-style: normal;
   }
+
+  .header-title-faqs{
+  font-family: source-code-pro,monospace;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+  }
+
+  .header-subtitle-faqs{
+    font-family: source-code-pro,monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 25px;
+    text-align: left;
+  }
+
+  .subtitle-faqs{
+    font-family: source-code-pro,monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 15px;
+    text-align: left;
+  }
    
   .payments-cards-image {
     display: block;
