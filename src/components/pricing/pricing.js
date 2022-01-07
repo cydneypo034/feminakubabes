@@ -87,14 +87,14 @@ function Memberships() {
                             <hr/>
                             <span class="icon-text">
                             <span class="icon">
-                                <i class="fas fa-check-square"></i>
+                                <i class="fas fa-gem"></i>
                             </span>
                             <div>Upgrade to VIP for Community Events</div>
                             </span>
                             <hr/>
                             <span class="icon-text">
                             <span class="icon">
-                                <i class="fas fa-check-square"></i>
+                                <i class="fas fa-gem"></i>
                             </span>
                             <div>**15% off Feminaku Anime Streaming Service for one year</div>
                             </span>
@@ -127,21 +127,21 @@ function Memberships() {
 
                             <span class="icon-text">
                             <span class="icon">
-                                <i class="fas fa-check-square"></i>
+                                <i class="fas fa-gem"></i>
                             </span>
                             <div>Everything from the wonder package and...</div>
                             </span>
                             <hr/>
                             <span class="icon-text">
                             <span class="icon">
-                                <i class="fas fa-check-square"></i>
+                                <i class="far fa-star"></i>
                             </span>
                             <div>Early Vote of FemmeBabe Box</div>
                             </span>
                             <hr/>
                             <span class="icon-text">
                             <span class="icon">
-                                <i class="fas fa-check-square"></i>
+                                <i class="far fa-star"></i>
                             </span>
                             <div>First Look and Play of New Games from Femme Games Studios </div>
                             </span>
@@ -174,6 +174,7 @@ function Memberships() {
                        <div class="second-card">
                         <div class="card-content">
                             <div class="container">
+                            <i class="fas fa-arrow-up"></i>
                                 <h1 class="card-title-first">
                                     Upgrade or Downgrade Your Plan
                                 </h1>
@@ -187,6 +188,7 @@ function Memberships() {
                     <div class="second-card">
                         <div class="card-content">
                             <div class="container">
+                            <i class="fas fa-user-friends"></i>
                                 <h1 class="card-title-first">
                                     Interact with Worldwide Community
                                 </h1>
@@ -200,6 +202,7 @@ function Memberships() {
                     <div class="second-card">
                         <div class="card-content">
                             <div class="container">
+                            <i class="fas fa-stop-circle"></i>
                                 <h1 class="card-title-first">
                                     Pause or Skip Months in Your Plan
                                 </h1>
@@ -213,6 +216,7 @@ function Memberships() {
                     <div class="second-card">
                         <div class="card-content">
                             <div class="container">
+                            <i class="fas fa-shopping-cart"></i>
                             <h1 class="card-title-first">
                                     Shop Small and Black-Owned
                                 </h1>
@@ -242,6 +246,7 @@ function Memberships() {
                 <div class="second-card">
                         <div class="card-content">
                             <div class="container">
+                            <i class="fas fa-check-circle"></i>
                                 <h1 class="card-title-first">
                                     Multiple Payment Methods.
                                 </h1>
@@ -255,6 +260,7 @@ function Memberships() {
                 <div class="second-card">
                         <div class="card-content">
                             <div class="container">
+                            <i class="fas fa-check-circle"></i>
                                 <h1 class="card-title-first">
                                 Recurring Billing Monthly.
                                 </h1>
@@ -268,6 +274,7 @@ function Memberships() {
                     <div class="second-card">
                         <div class="card-content">
                             <div class="container">
+                            <i class="fas fa-check-circle"></i>
                                 <h1 class="card-title-first">
                                     International Surcharge Fee.
                                 </h1>
@@ -278,6 +285,7 @@ function Memberships() {
                         </div>
                     </div>     
             </div>
+            <br/>
             <br/>
              <hr/>
             </div>   
