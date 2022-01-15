@@ -73,10 +73,10 @@ class PrimePage extends React.Component {
                         <div className='container'>
                             <img src={FreeBlackGirl} alt='black-girl-sitting-on-stairs' className='image-float-second' />
                         
-                        <h2 className='header-subtitle-fourth'>
+                        <h2 className='header-title-third'>
                             My favorite thing about Feminaku is the community and the amount of time they put into
                             making sure we all feel welcomed. The culture they've made for what a community should be is
-                            unlike any community I've been apart of online. Happy to be here, and can't for what will come next.
+                            unlike any community I've been apart of online.
                         </h2>
                         <h2 className="header-subtitle-third">
                             Traylor Standford, Ventura, California
