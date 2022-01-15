@@ -42,16 +42,31 @@ class PrimePage extends React.Component {
                             Membership Essentials
                             </h1>
                             <h2 className="header-subtitle-third">
-                            Feminaku is a combination 
-                            of the word feminine and otaku, a Japanese term for people with obsessive 
-                            interests, particularly in anime and manga. Feminaku exists as a community for 
-                            black girls who are otaku's to their core to network, be seen, loved and celebrated. 
+                            Early Access to Community Events Online and In-person
                             </h2>
+                            <h4 className="header-subtitle-fourth">
+                            Through your online account, you'll be able to stream and attend events, while having early and exclusive 
+                            access to behind-the-scenes filming before livestreams 
+                            </h4>
+                            <h2 className="header-subtitle-third">
+                            Members Only Workshops
+                            </h2>
+                            <h4 className="header-subtitle-fourth">
+                            From Hogwarts House crafts to Vision board creations for the New Year, you'll never miss when workshops will
+                            be available to attend.
+                            </h4>
+                            <h2 className="header-subtitle-third">
+                            The Exclusive "FemmeBabe" Monthly Merch Box
+                            </h2>
+                            <h4 className="header-subtitle-fourth">
+                            Featuring products from small, black-owned businesses, you'll have the benefit of an automatic subscription
+                            to our FemmeBabe Merch Box at a discount apart from the public. 
+                            </h4>
                         </div> 
                     </div>
-
-
                     </section>
+
+                    
 
 
             </div>
