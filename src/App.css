@@ -66,9 +66,12 @@
   float: right;
 }
 
-.image-float {
+.image-float-second {
   height: 350px;
-  float: right;
+  float: left;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 30%;
 }
 
 .footer-subtitle{
