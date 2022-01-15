@@ -3,6 +3,7 @@ import BlackPotterGirls from '../images/blackpottergirls.jpg';
 import BlackGirlWithGlasses from '../images/blackgirlglasses.jpg';
 import FreeBlackGirl from '../images/freeblackgirl.jpg';
 import FeminakuPricing from '../images/feminakuprice.png';
+import SailorMoon from '../images/sailor-moon-happy.gif'
 import './homeheader.css';
 
 function HomeHeader() {
@@ -12,6 +13,7 @@ function HomeHeader() {
             <section className="hero is-medium is-black">
             <div className="hero-body">
                 <div className="container">
+                <img src={SailorMoon} alt="" className="image-float" />
 
                 <h1 className="header-title">
                     A safe, magical space <br /> by us, for us 
@@ -25,6 +27,7 @@ function HomeHeader() {
                 <button type="button" className="btn btn-secondary btn-rounded" href="/pricing">
                     Get Started</button>
                 </div>
+
 
 
                 </div>

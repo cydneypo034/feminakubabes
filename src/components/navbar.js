@@ -26,13 +26,13 @@ function NavbarPage() {
               </a>
 
               <div className="navbar-dropdown">
-                <a href="/prime" className="navbar-item">
+                <a href="/membership/prime" className="navbar-item">
                   Prime
                 </a>
-                <a href="/wonder" className='navbar-item'>
+                <a href="/membership/wonder" className='navbar-item'>
                   Wonder
                 </a>
-                <a href='/luxe' className='navbar-item'>
+                <a href="/membership/luxe" className='navbar-item'>
                   Luxe
                 </a>
               </div>

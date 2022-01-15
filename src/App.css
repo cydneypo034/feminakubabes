@@ -34,6 +34,34 @@
   text-align: center;
 }
 
+.header-title-third{
+  font-family: source-code-pro,monospace;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+  font-size: 50px;
+  text-align: left;
+}
+
+.header-subtitle-third{
+  font-family: source-code-pro,monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  font-size: 28px;
+  text-align: left;
+}
+
+.image-float {
+  height: 350px;
+  float: right;
+}
+
+.image-float {
+  height: 350px;
+  float: right;
+}
+
 .footer-subtitle{
   font-family: source-code-pro,monospace;
   font-weight: 400;

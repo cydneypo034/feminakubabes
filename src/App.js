@@ -20,9 +20,9 @@ export default class App extends Component {
           <NavBar />
 
             <Route exact path="/" component={Home} />
-            <Route path="/luxe" component={LuxePage}/>
-            <Route path="/wonder" component={WonderPage}/>
-            <Route path="/prime" component={PrimePage}/>
+            <Route path="/membership/luxe" component={LuxePage}/>
+            <Route path="/membership/wonder" component={WonderPage}/>
+            <Route path="/membership/prime" component={PrimePage}/>
             <Route path="/pricing" component={Pricing} />
             <Route path="/about-us" component={AboutUs} />
           
