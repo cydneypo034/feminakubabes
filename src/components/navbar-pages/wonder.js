@@ -42,25 +42,25 @@ class WonderPage extends React.Component {
                             Membership Essentials
                             </h1>
                             <h2 className="header-subtitle-third">
-                            Early Access to Community Events Online and In-person
+                            Prime Package Perks Included
                             </h2>
                             <h4 className="header-subtitle-fourth">
-                            Through your online account, you'll be able to stream and attend events, while having early and exclusive 
-                            access to behind-the-scenes filming before livestreams 
+                            You'll receive all the benefits from our Prime Package along with the ability to upgrade 
+                            to Luxe or downgrade back to Prime based on your needs.
                             </h4>
                             <h2 className="header-subtitle-third">
-                            Members Only Workshops
+                            Upgrade to VIP Status for Community Events
                             </h2>
                             <h4 className="header-subtitle-fourth">
-                            From Hogwarts House crafts to Vision board creations for the New Year, you'll never miss when workshops will
-                            be available to attend.
+                            You'll immediately be upgraded for the VIP status when invited to our community events. This means you'll
+                            have access to when tickets go on sale and have the chance to gain access to standard and VIP tickets.
                             </h4>
                             <h2 className="header-subtitle-third">
-                            The Exclusive "FemmeBabe" Monthly Merch Box
+                            One-Year Feminaku Anime Streaming Service Subscription
                             </h2>
                             <h4 className="header-subtitle-fourth">
-                            Featuring products from small, black-owned businesses, you'll have the benefit of an automatic subscription
-                            to our FemmeBabe Merch Box at a discount apart from the public. 
+                            You'll be able to have immediate access to our anime streaming service platform where we host our own anime
+                            from our studio. 
                             </h4>
                         </div> 
                     </div>
