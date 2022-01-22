@@ -56,11 +56,11 @@ class WonderPage extends React.Component {
                             have access to when tickets go on sale and have the chance to gain access to standard and VIP tickets.
                             </h4>
                             <h2 className="header-subtitle-third">
-                            One-Year Feminaku Anime Streaming Service Subscription
+                            Exclusive Voting Rights for Your FemmeBabe Box
                             </h2>
                             <h4 className="header-subtitle-fourth">
-                            You'll be able to have immediate access to our anime streaming service platform where we host our own anime
-                            from our studio. 
+                            You'll immediately be upgraded for the VIP status when invited to our community events. This means you'll
+                            have access to when tickets go on sale and have the chance to gain access to standard and VIP tickets.
                             </h4>
                         </div> 
                     </div>

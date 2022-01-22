@@ -44,7 +44,7 @@ function Memberships() {
                             <span class="icon">
                                 <i class="fas fa-check-square"></i>
                             </span>
-                            <div>Early Access to Community Events</div>
+                            <div>Early Access to Community Events in Standard Status</div>
                             </span>
                             <hr />
 
@@ -89,22 +89,21 @@ function Memberships() {
                             <span class="icon">
                                 <i class="fas fa-gem"></i>
                             </span>
-                            <div>Upgrade to VIP for Community Events</div>
+                            <div>Automatic Access and Upgrade to VIP for Community Events</div>
                             </span>
                             <hr/>
                             <span class="icon-text">
                             <span class="icon">
                                 <i class="fas fa-gem"></i>
                             </span>
-                            <div>**15% off Feminaku Anime Streaming Service for one year</div>
+                            <div>Early Vote of Contents in Your FemmeBabe Box</div>
                             </span>
                             <hr/>
                         
                             <button type="button" className="btn btn-secondary btn-rounded" href="/">let's wonder</button>
 
                             <hr/>
-                            <div style={{fontSize: '10px', padding: '10px'}}>**This applies to the FemmeBabe Unlimited Subscription plan ONLY.</div>
-
+                           
                         </div>
                     </div>
                 </div>
@@ -136,7 +135,7 @@ function Memberships() {
                             <span class="icon">
                                 <i class="far fa-star"></i>
                             </span>
-                            <div>Early Vote of FemmeBabe Box</div>
+                            <div>**15% off Feminaku Anime Streaming Service</div>
                             </span>
                             <hr/>
                             <span class="icon-text">
@@ -147,9 +146,11 @@ function Memberships() {
                             </span>
                             <hr/>
                         
-                            <button type="button" className="btn btn-secondary btn-rounded" href="/">go luxe</button>
+                            <button type="button" className="btn btn-secondary btn-rounded" href="/">live luxe</button>
 
                             <hr />
+                            <div style={{fontSize: '10px', padding: '10px'}}>**This applies to the FemmeBabe Unlimited Subscription plan ONLY.</div>
+
                         </div>
                     </div>
                 </div>
