@@ -56,10 +56,11 @@ class LuxePage extends React.Component {
                             from our studio. 
                             </h4>
                             <h2 className="header-subtitle-third">
-                            First Play and Look at New Games from Femme Games Studios
+                            Access to New Games from Femme Games Studios
                             </h2>
                             <h4 className="header-subtitle-fourth">
-                            In our premier gaming studio, Femme Games Studios, 
+                            In our premier gaming studio, Femme Games Studios, we will offer an exclusive look for Luxe Members
+                            into new games we plan to release to the public.
                             </h4>
                             
                         </div> 

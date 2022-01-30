@@ -7,7 +7,6 @@ import LuxePage from './components/navbar-pages/luxe.js';
 import WonderPage from './components/navbar-pages/wonder.js';
 import PrimePage from './components/navbar-pages/prime.js';
 import Pricing from './components/pricing/pricing.js';
-import AboutUs from './components/about-us/about-us.js';
 import Footer from './components/footer.js';
 
 
@@ -24,7 +23,6 @@ export default class App extends Component {
             <Route path="/membership/wonder" component={WonderPage}/>
             <Route path="/membership/prime" component={PrimePage}/>
             <Route path="/pricing" component={Pricing} />
-            <Route path="/about-us" component={AboutUs} />
           
           <Footer />
         </Router>

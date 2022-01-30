@@ -42,9 +42,6 @@ function NavbarPage() {
               Pricing
             </a>
 
-            <a href="/about-us" className="navbar-item">
-              About Us
-            </a>
           </div>
 
           <div className="navbar-end">
