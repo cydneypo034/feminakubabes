@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b38d80478daf71870a8a6903c11fecb",
+    "revision": "3a65c0a400cd97004b1d8c6b7a46ad5b",
     "url": "/feminakubabes/index.html"
   },
   {
-    "revision": "a56be0640c57642bbdbf",
+    "revision": "0c44bb42b2ce3a5d3558",
     "url": "/feminakubabes/static/css/main.15fa01fc.chunk.css"
   },
   {
-    "revision": "d023aa87b8875f40aa30",
-    "url": "/feminakubabes/static/js/2.55ede80f.chunk.js"
+    "revision": "d5fa75aca590f7adec38",
+    "url": "/feminakubabes/static/js/2.dff91cf5.chunk.js"
   },
   {
-    "revision": "a56be0640c57642bbdbf",
-    "url": "/feminakubabes/static/js/main.7331b530.chunk.js"
+    "revision": "0c44bb42b2ce3a5d3558",
+    "url": "/feminakubabes/static/js/main.e1acab94.chunk.js"
   },
   {
     "revision": "320712126a057505deea",

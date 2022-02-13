@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/feminakubabes/static/css/main.15fa01fc.chunk.css",
-    "main.js": "/feminakubabes/static/js/main.7331b530.chunk.js",
-    "main.js.map": "/feminakubabes/static/js/main.7331b530.chunk.js.map",
+    "main.js": "/feminakubabes/static/js/main.e1acab94.chunk.js",
+    "main.js.map": "/feminakubabes/static/js/main.e1acab94.chunk.js.map",
     "runtime-main.js": "/feminakubabes/static/js/runtime-main.ec60f8b4.js",
     "runtime-main.js.map": "/feminakubabes/static/js/runtime-main.ec60f8b4.js.map",
-    "static/js/2.55ede80f.chunk.js": "/feminakubabes/static/js/2.55ede80f.chunk.js",
-    "static/js/2.55ede80f.chunk.js.map": "/feminakubabes/static/js/2.55ede80f.chunk.js.map",
+    "static/js/2.dff91cf5.chunk.js": "/feminakubabes/static/js/2.dff91cf5.chunk.js",
+    "static/js/2.dff91cf5.chunk.js.map": "/feminakubabes/static/js/2.dff91cf5.chunk.js.map",
     "index.html": "/feminakubabes/index.html",
-    "precache-manifest.b6347503a68c0f0df90899e54616793a.js": "/feminakubabes/precache-manifest.b6347503a68c0f0df90899e54616793a.js",
+    "precache-manifest.b709a70bd0fd74e086f62fdbecb62ba7.js": "/feminakubabes/precache-manifest.b709a70bd0fd74e086f62fdbecb62ba7.js",
     "service-worker.js": "/feminakubabes/service-worker.js",
     "static/css/main.15fa01fc.chunk.css.map": "/feminakubabes/static/css/main.15fa01fc.chunk.css.map",
     "static/media/blackanimegirlqueen.gif": "/feminakubabes/static/media/blackanimegirlqueen.037de7fc.gif",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec60f8b4.js",
-    "static/js/2.55ede80f.chunk.js",
+    "static/js/2.dff91cf5.chunk.js",
     "static/css/main.15fa01fc.chunk.css",
-    "static/js/main.7331b530.chunk.js"
+    "static/js/main.e1acab94.chunk.js"
   ]
 }
