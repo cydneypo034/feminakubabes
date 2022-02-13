@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import {HashRouter as Router, Route} from 'react-router-dom';
+import {HashRouter, Route, Switch} from 'react-router-dom';
 import NavBar from './components/navbar.js';
 import Home from './components/home/homeheader.js';
 import LuxePage from './components/navbar-pages/luxe.js';
@@ -14,19 +14,19 @@ import Footer from './components/footer.js';
 export default class App extends Component {
   render(){
     return (   
-        <Router>
-          <div>
+        <HashRouter>
           <NavBar />
-
-            <Route exact path="/" component={Home} />
-            <Route path="/membership/luxe" component={LuxePage}/>
-            <Route path="/membership/wonder" component={WonderPage}/>
-            <Route path="/membership/prime" component={PrimePage}/>
+          <Switch>
+            <Route path="/" exact component={Home} />
+            <Route path="/luxe" component={LuxePage}/>
+            <Route path="/wonder" component={WonderPage}/>
+            <Route path="/prime" component={PrimePage}/>
             <Route path="/pricing" component={Pricing} />
+          </Switch>
+            
           
           <Footer />
-          </div>
-        </Router> 
+        </HashRouter> 
     )
   }
   

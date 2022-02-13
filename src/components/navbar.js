@@ -16,29 +16,23 @@ function NavbarPage() {
 
         <div id="navbarBasicExample" class="navbar-menu">
           <div className="navbar-start">
-            <a href="/" className="navbar-item">
+            <a href="#/" className="navbar-item">
               Home
             </a>
 
-            <div className="navbar-item has-dropdown is-hoverable">
-              <a href="/#" className="navbar-link">
-                 Memberships
-              </a>
-
-              <div className="navbar-dropdown">
-                <a href="/membership/prime" className="navbar-item">
+           
+                <a href="#/prime" className="navbar-item">
                   Prime
                 </a>
-                <a href="/membership/wonder" className='navbar-item'>
+                <a href="#/wonder" className='navbar-item'>
                   Wonder
                 </a>
-                <a href="/membership/luxe" className='navbar-item'>
+                <a href="#/luxe" className='navbar-item'>
                   Luxe
                 </a>
-              </div>
-            </div>
+              
 
-            <a href="/pricing" className="navbar-item">
+            <a href="#/pricing" className="navbar-item">
               Pricing
             </a>
 
