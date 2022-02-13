@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/feminakubabes/precache-manifest.554983e0726964fb64afbed3efe282cf.js"
+  "/feminakubabes/precache-manifest.b6347503a68c0f0df90899e54616793a.js"
 );
 
 self.addEventListener('message', (event) => {
