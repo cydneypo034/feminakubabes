@@ -13,9 +13,9 @@ import Footer from './components/footer.js';
 
 export default class App extends Component {
   render(){
-    return (
-      <div>
+    return (   
         <Router>
+          <div>
           <NavBar />
 
             <Route exact path="/" component={Home} />
@@ -25,8 +25,8 @@ export default class App extends Component {
             <Route path="/pricing" component={Pricing} />
           
           <Footer />
-        </Router>
-    </div>
+          </div>
+        </Router> 
     )
   }
   
