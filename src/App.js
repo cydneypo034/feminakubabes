@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import {BrowserRouter as Router, Route} from 'react-router-dom';
+import {HashRouter as Router, Route} from 'react-router-dom';
 import NavBar from './components/navbar.js';
 import Home from './components/home/homeheader.js';
 import LuxePage from './components/navbar-pages/luxe.js';
